@@ -1,16 +1,8 @@
 # flutter_course
 
-A new Flutter project.
+An app about programming online course with beautiful responsive UI
 
-## Getting Started
+![Artboard](https://user-images.githubusercontent.com/87839081/129309735-a3525a3f-0a37-4869-aa59-ef5694997ee8.png)
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/87839081/129309841-b4847bb8-944e-4c4c-85f8-1369f56a437c.gif" width="250">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
